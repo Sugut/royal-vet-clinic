@@ -58,6 +58,7 @@ function App() {
 
   return (
     <div className="App">
+<<<<<<< HEAD
       <NavBar />
       <Routes>
         <Route path="/vets" element={<Vets vets={vets} appointments={appointments}/>} />
@@ -68,6 +69,9 @@ function App() {
         <Route path="/newappointment" element={<NewAppointment allpatients={patients} vets={vets} onAddAppointment={addAppointment}/>} />
         <Route path="/" element ={<Home allpatients={patients}/>} />
       </Routes>
+=======
+     <h1>YABAADABBADOO</h1>
+>>>>>>> origin
     </div>
   );
 };
