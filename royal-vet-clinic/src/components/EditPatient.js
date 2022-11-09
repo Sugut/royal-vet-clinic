@@ -78,7 +78,6 @@ function EditPatient({allpatients, onEditPatient}) {
             </Form>
         </div>
     ) : undefined
-
 }
 
 export default EditPatient;

@@ -1,11 +1,4 @@
-.App { 
-  min-height: 100vh;
-  background-image: url(https://img.freepik.com/premium-photo/cat-paws-stethoscope-blue-background-concept-veterinary-medicine-taking-care-pets-banner-copy-space_76158-859.jpg?w=2000);
-  background-size: cover;
-  background-position: right;
-}
-
-body {
+.body {
   margin: 0;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -30,7 +23,13 @@ code {
 
 #search-div {
   padding-bottom: 20px;
+}App { 
+  min-height: 100vh;
+  background-image: url(https://img.freepik.com/premium-photo/cat-paws-stethoscope-blue-background-concept-veterinary-medicine-taking-care-pets-banner-copy-space_76158-859.jpg?w=2000);
+  background-size: cover;
+  background-position: right;
 }
+
 
 .new {
   margin: auto;
