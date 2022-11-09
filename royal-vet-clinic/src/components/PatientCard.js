@@ -5,6 +5,7 @@ import { Link } from "react-router-dom";
 
 
 function PatientCard({patient}) {
+    
 
     return (
         <div className="item"> 
